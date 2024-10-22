@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|c:\\users\\emree\\source\\repos\\nuklearwarsimulation\\nuklearwarsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|solutionrelative:nuklearwarsimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|c:\\users\\emree\\source\\repos\\nuklearwarsimulation\\nuklearwarsimulation\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|solutionrelative:nuklearwarsimulation\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|c:\\users\\emree\\source\\repos\\nuklearwarsimulation\\nuklearwarsimulation\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B4FE293-4BFD-4A2C-B48C-64E0010D80E1}|NuklearWarSimulation\\NuklearWarSimulation.csproj|solutionrelative:nuklearwarsimulation\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 123,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Enemy.cs",
+              "RelativeDocumentMoniker": "NuklearWarSimulation\\Enemy.cs",
+              "ToolTip": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Enemy.cs",
+              "RelativeToolTip": "NuklearWarSimulation\\Enemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:09:42.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Hero.cs",
+              "RelativeDocumentMoniker": "NuklearWarSimulation\\Hero.cs",
+              "ToolTip": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Hero.cs",
+              "RelativeToolTip": "NuklearWarSimulation\\Hero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:09:24.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Program.cs",
+              "RelativeDocumentMoniker": "NuklearWarSimulation\\Program.cs",
+              "ToolTip": "C:\\Users\\emree\\source\\repos\\NuklearWarSimulation\\NuklearWarSimulation\\Program.cs",
+              "RelativeToolTip": "NuklearWarSimulation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:08:34.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

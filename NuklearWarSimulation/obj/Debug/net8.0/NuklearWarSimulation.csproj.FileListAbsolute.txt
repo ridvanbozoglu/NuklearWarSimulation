@@ -1,0 +1,14 @@
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.AssemblyInfoInputs.cache
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.AssemblyInfo.cs
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.csproj.CoreCompileInputs.cache
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/bin/Debug/net8.0/NuklearWarSimulation
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/bin/Debug/net8.0/NuklearWarSimulation.deps.json
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/bin/Debug/net8.0/NuklearWarSimulation.runtimeconfig.json
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/bin/Debug/net8.0/NuklearWarSimulation.dll
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/bin/Debug/net8.0/NuklearWarSimulation.pdb
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.dll
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/refint/NuklearWarSimulation.dll
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.pdb
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.genruntimeconfig.cache
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/ref/NuklearWarSimulation.dll
