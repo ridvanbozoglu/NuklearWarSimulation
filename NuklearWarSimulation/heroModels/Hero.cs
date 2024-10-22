@@ -5,7 +5,7 @@ namespace NuklearWarSimulation
     public abstract class Hero : IEntity
     {
         public string Name { get; set; }
-        public int Position { get; set; }
+        public int Position { get; set; } = 0;
         public int Health { get; set; }
         public int AttackDamage { get; set; }
         public bool IsAlive { get; set;}

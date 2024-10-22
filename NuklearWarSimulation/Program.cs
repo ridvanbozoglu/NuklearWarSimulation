@@ -9,7 +9,8 @@ namespace NuklearWarSimulation
         {
             Bug originalBug = new Bug(100, 10);
             Enemy newBug = EnemyFactory.CreateInstance(originalBug, 5);
-            Simulation.Simulate();
+            
+
         }
     }
 }
