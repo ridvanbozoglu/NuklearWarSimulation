@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NuklearWarSimulation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b3806d57d0e26b19c5ecafbb6519e68b3dcef71")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+976f47181cc9cd7ababf1b1269c826d3805860ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("NuklearWarSimulation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NuklearWarSimulation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

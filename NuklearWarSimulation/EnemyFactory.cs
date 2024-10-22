@@ -10,7 +10,7 @@ namespace NuklearWarSimulation
             newEnemy.Health = enemy.Health;
             newEnemy.AttackDamage = enemy.AttackDamage;
             newEnemy.Position = distance; 
-            Console.WriteLine($"Created a {newEnemy.Name} with Health: {newEnemy.Health}, Attack Damage: {newEnemy.AttackDamage}, and Position: {newEnemy.Position}");
+            Console.WriteLine($"Created a {newEnemy.Name} atPosition: {newEnemy.Position}");
             return newEnemy; 
         }
     }
