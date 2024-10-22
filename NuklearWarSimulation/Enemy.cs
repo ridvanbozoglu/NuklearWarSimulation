@@ -11,6 +11,7 @@ namespace NuklearWarSimulation
         public bool IsAlive { get; set;}
         
 
+        public Enemy(){}
         public Enemy(int health, int attackDamage)
         {
             Health = health;

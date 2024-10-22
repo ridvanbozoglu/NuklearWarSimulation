@@ -12,3 +12,4 @@
 /Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.pdb
 /Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.genruntimeconfig.cache
 /Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/ref/NuklearWarSimulation.dll
+/Users/ridvan/Desktop/Case study/NuklearWarSimulation/NuklearWarSimulation/obj/Debug/net8.0/NuklearWarSimulation.sourcelink.json
