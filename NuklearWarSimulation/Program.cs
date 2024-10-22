@@ -7,10 +7,21 @@ namespace NuklearWarSimulation
     {
         static void Main(string[] args)
         {
-            Bug originalBug = new Bug(100, 10);
-            Enemy newBug = EnemyFactory.CreateInstance(originalBug, 5);
+            int distance = 60;
+            System.Console.WriteLine("Resources " + distance + "  meters away.");
+            Hero hero = new Kahraman(100,3);
+            Bug originalBug = new Bug();
+            originalBug.Health = 100;
+            originalBug.AttackDamage = 3;
             
-
+            List<Enemy> enemies = new List<Enemy>
+            {
+                EnemyFactory.CreateInstance(originalBug, 5),
+                EnemyFactory.CreateInstance(originalBug, 50),
+                EnemyFactory.CreateInstance(originalBug, 25)
+            };
+            Simulation.Simulate(hero, enemies, 60);
+            
         }
     }
 }

@@ -11,6 +11,8 @@ namespace NuklearWarSimulation
         public Kahraman(int health, int attackDamage) : base(health, attackDamage)
         {
             this.Name = "Kahraman";
+            System.Console.WriteLine("Kahraman has " + health + " health.");
+            System.Console.WriteLine("Kahraman has " + attackDamage + " attack damage.");
         }
     }
 }
