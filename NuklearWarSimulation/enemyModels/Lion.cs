@@ -2,16 +2,16 @@ using System;
 
 namespace NuklearWarSimulation
 {
-    public class Bug : Enemy
+    public class Lion : Enemy
     {    
-        public Bug()
+        public Lion()
         {
-            this.Name = "Bug";
+            this.Name = "Lion";
             System.Console.WriteLine(Name + " enemy.");
         }
-        public Bug(int health, int attackDamage) : base(health, attackDamage)
+        public Lion(int health, int attackDamage) : base(health, attackDamage)
         {
-            this.Name = "Bug";
+            this.Name = "Lion";
             System.Console.WriteLine(Name + " has " + health + " health.");
             System.Console.WriteLine(Name + " has " + attackDamage + " attack damage.");
         }

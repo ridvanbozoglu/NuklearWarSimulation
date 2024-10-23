@@ -1,17 +1,18 @@
-﻿using System;
+using System;
 
 namespace NuklearWarSimulation
 {
-    public abstract class Enemy : IEntity
+    public abstract class Hero : IEntity
     {
         public string Name { get; set; }
-        public int Position { get; set; }
+        public int Position { get; set; } = 0;
         public int Health { get; set; }
         public int AttackDamage { get; set; }
         public bool IsAlive { get; set;}
         
 
-        public Enemy(int health, int attackDamage)
+        public Hero(){}
+        public Hero(int health, int attackDamage)
         {
             Health = health;
             AttackDamage = attackDamage;
