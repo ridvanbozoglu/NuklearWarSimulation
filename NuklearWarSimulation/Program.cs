@@ -11,7 +11,7 @@ namespace NuklearWarSimulation
             System.Console.WriteLine("Resources " + distance + "  meters away.");
 
             Hero hero = new Kahraman(1000, 10);
-            
+
             Bug bug = new Bug();
             Lion lion = new Lion();
             Zombi zombi = new Zombi();

@@ -46,7 +46,7 @@ namespace NuklearWarSimulation
                 }
             }
 
-            System.Console.WriteLine(hero.Name + " finished the journey with " + hero.Health + " health!");
+            System.Console.WriteLine(hero.Name + " survived the journey!");
         }
 
         static bool isInDistance(Enemy enemy, int distance)
